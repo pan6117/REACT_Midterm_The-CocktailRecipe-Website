@@ -1,0 +1,10 @@
+footer {
+  background-color: #432c10;
+  color: white;
+  position: sticky;
+  bottom: 0px;
+}
+
+footer div {
+  padding: 10px;
+}

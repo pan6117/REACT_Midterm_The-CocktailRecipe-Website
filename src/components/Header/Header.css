@@ -1,0 +1,13 @@
+header {
+  padding: 20px;
+  background-color: #432c10;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  font-size: 2.5rem;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+}

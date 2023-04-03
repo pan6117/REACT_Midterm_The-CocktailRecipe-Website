@@ -1,0 +1,37 @@
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5vw;
+  padding: 50px;
+  background-color: #181007;
+}
+
+img {
+  height: 250px;
+}
+
+.card {
+  font-family: "Nerko One", cursive, sans-serif;
+}
+
+#singleCard {
+  padding: 10px;
+  background-color: #dcd5c8;
+  border: solid 3px #181007;
+  color: #251200;
+}
+#singleCard:hover {
+  border: solid 3px white;
+}
+
+#detailsButton {
+  color: #a1886f;
+  font-size: 1rem;
+  font-family: "Nerko One", cursive, sans-serif;
+}
+
+#drinksTitle {
+  font-size: 2rem;
+  font-family: "Nerko One", cursive, sans-serif;
+}

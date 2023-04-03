@@ -1,0 +1,43 @@
+body {
+}
+
+.detailsContainer {
+  background-color: #dcd5c8;
+  min-height: 82vh;
+  position: sticky;
+  top: 88.5px;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px;
+  font-size: 2.5rem;
+  color: #251200;
+}
+
+img {
+  height: 300px;
+  border-radius: 10px;
+}
+
+div.drinkRecipe {
+  margin-top: 10px;
+}
+
+div.ingredient {
+  font-size: 1.75rem;
+  color: #842f1a;
+}
+
+div.measure {
+  font-size: 1.2rem;
+  color: #a1886f;
+}
+
+div.drinkInstructions {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: #251200;
+}
